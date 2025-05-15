@@ -115,7 +115,7 @@ condors_atlas <- atl_filter_bounds(condors_filter,
 
 ####----(3) Visualise----####
 #' download map
-ggmap::register_google(key = "AIzaSyAzhQ0Mx9zrV3oSqOas4RmHnsuk-1XCqWc")
+ggmap::register_google(key = "XXX")
 
 #' map parameters
 map <- ggmap(get_googlemap(center = c(lon = -112.02, lat = 36),
