@@ -4,8 +4,7 @@
 
 #' Script by: Varalika Jain
 
-#' The final KML files for this Area within Kaibab analysis are available on this
-#' GitHub repository
+#' The final KML files for this Area within Kaibab analysis are available upon request
 
 ####----LIBRARIES----####
 library(sf)
